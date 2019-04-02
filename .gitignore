@@ -1,0 +1,6 @@
+data/
+prometheus
+.terraform
+*tfstate*
+terraform.tfvars
+*.DS_STORE
